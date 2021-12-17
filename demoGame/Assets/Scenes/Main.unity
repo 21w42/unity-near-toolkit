@@ -1426,6 +1426,26 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3068243760089943930}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &972828750 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4401863855381985667, guid: 6cfaadcb953af1c448a1b82b94f47442,
+    type: 3}
+  m_PrefabInstance: {fileID: 4401863855336439685}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &972828751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972828750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b419aaf96d64848b282cdd155d500f34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buttonDisplayName: 0
+  buttonDisplayName2: 0
 --- !u!1001 &976243511
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23693,7 +23713,7 @@ PrefabInstance:
     - target: {fileID: 4401863854545358135, guid: 6cfaadcb953af1c448a1b82b94f47442,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -38.087376
+      value: -36.587925
       objectReference: {fileID: 0}
     - target: {fileID: 4401863854545358135, guid: 6cfaadcb953af1c448a1b82b94f47442,
         type: 3}
@@ -31327,7 +31347,7 @@ PrefabInstance:
     - target: {fileID: 6372339727176229870, guid: 7b1d9d3c1cec0f5419bd2b1ea4481e3c,
         type: 3}
       propertyPath: m_Spline.m_ControlPoints.Array.data[1].m_CornerMode
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6372339727176229871, guid: 7b1d9d3c1cec0f5419bd2b1ea4481e3c,
         type: 3}
